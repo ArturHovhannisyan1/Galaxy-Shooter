@@ -56,6 +56,6 @@ py main.py
 
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/464267ef-cc93-4d82-afa5-ac783eae5944" alt="График 1" width="450"/></td>
+      <td><img src="https://github.com/ArturHovhannisyan1/Galaxy-Shooter/blob/main/images/Screenshot%202024-09-24%20164959.png?raw=true"/></td>
     </tr>
   </table>
