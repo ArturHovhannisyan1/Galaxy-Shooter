@@ -47,7 +47,7 @@ py main.py
 
 ## Controls
 
-Up Arrow: Move forward
-Down Arrow: Move backward
-Left/Right Arrow: Move Left/Right
-Space: Shoot
+1. Up Arrow: Move forward
+2. Down Arrow: Move backward
+3. Left/Right Arrow: Move Left/Right
+4. Space: Shoot
