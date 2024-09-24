@@ -51,3 +51,11 @@ py main.py
 2. Down Arrow: Move backward
 3. Left/Right Arrow: Move Left/Right
 4. Space: Shoot
+
+## Photo
+
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/464267ef-cc93-4d82-afa5-ac783eae5944" alt="График 1" width="450"/></td>
+    </tr>
+  </table>
